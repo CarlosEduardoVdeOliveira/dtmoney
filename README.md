@@ -90,9 +90,9 @@ yarn start
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./src/Assets/Eu.png" width="100px;" alt="Foto do Gabriel Silva no GitHub"/><br>
+        <img src="https://github.com/CarlosEduardoVdeOliveira.png" width="100px;" alt="Carlos Eduardo no GitHub"/><br>
         <sub>
-          <a >Gabriel Ibiapino</a>
+          <a >Carlos Eduardo</a>
         </sub>
       </a>
     </td>
